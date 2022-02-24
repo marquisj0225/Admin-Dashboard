@@ -1,6 +1,6 @@
 ## React Fron Demo
+[Click Here to see Live Website Demo](https://mjones-react-dash.web.app)
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
